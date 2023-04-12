@@ -1,0 +1,20 @@
+{
+    "comments": {
+        "author": "Tim Schakel, UMCU",
+        "creator": "Manual",
+        "description": "MR2MV"
+    },
+    "metaformat": "20220701",
+    "results": {
+        "AcquisitionDateTime": {
+            "constraint_period": 30,
+            "description": "date and time of acquisition",
+            "display_level": 2,
+            "display_position": 0,
+            "display_name": "DateTime",
+            "units": ""
+        }
+    }
+}
+
+ 

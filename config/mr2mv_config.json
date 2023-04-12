@@ -1,0 +1,21 @@
+{
+  "actions": {
+    "acqdatetime": {
+      "filters": {
+      	"datetime_filter": {
+      		"SeriesDescription": "T1 MR-MV"
+        	}
+      	},
+      "params": {
+      }
+    }
+  },
+  "cfgformat": "20221017",
+  "comments": {
+    "author": "Tim Schakel, UMCU",
+    "description": "WADQC 2 module for MR2MV",
+    "version": "0.1",
+    "params": {
+    }
+  }
+}
